@@ -1,0 +1,181 @@
+[
+ {
+  "base": "PE-RES-MSGC-SSASS-550-26",
+  "nota": "Limpieza integral de hospitales (Salud 2026)",
+  "documentos_encontrados": [
+   "PE-RES-MSGC-SSASS-550-26-ANX",
+   "PE-RES-MSGC-SSASS-550-26-ANX-1"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-RES-SECGVC-SSSERV-36-26",
+  "nota": "Vehiculos doble comando para examenes de manejo (2026)",
+  "documentos_encontrados": [
+   "PE-RES-SECGVC-SSSERV-36-26-ANX",
+   "PE-RES-SECGVC-SSSERV-36-26-ANX-1"
+  ],
+  "con_articulo_de_seguros": [
+   "PE-RES-SECGVC-SSSERV-36-26-ANX-1"
+  ]
+ },
+ {
+  "base": "PE-RES-MJYSGC-MJYSGC-227-23",
+  "nota": "Seguridad privada y vigilancia de sedes (2023)",
+  "documentos_encontrados": [
+   "PE-RES-MJYSGC-MJYSGC-227-23-ANX",
+   "PE-RES-MJYSGC-MJYSGC-227-23-ANX-1"
+  ],
+  "con_articulo_de_seguros": [
+   "PE-RES-MJYSGC-MJYSGC-227-23-ANX"
+  ]
+ },
+ {
+  "base": "PE-RES-MMIGC-SECTR-33-26",
+  "nota": "Estacionamiento regulado (2026)",
+  "documentos_encontrados": [
+   "PE-RES-MMIGC-SECTR-33-26-ANX",
+   "PE-RES-MMIGC-SECTR-33-26-ANX-1"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-DIS-MHFGC-AGIP-36-26",
+  "nota": "Mantenimiento de alarmas e incendio en edificios (2026)",
+  "documentos_encontrados": [
+   "PE-DIS-MHFGC-AGIP-36-26-ANX",
+   "PE-DIS-MHFGC-AGIP-36-26-ANX-1"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-RES-MSGC-SSASS-46-23",
+  "nota": "Comidas lavanderia y limpieza en hogar (Salud 2023)",
+  "documentos_encontrados": [
+   "PE-RES-MSGC-SSASS-46-23-ANX",
+   "PE-RES-MSGC-SSASS-46-23-ANX-1",
+   "PE-RES-MSGC-SSASS-46-23-ANX-2",
+   "PE-RES-MSGC-SSASS-46-23-ANX-3",
+   "PE-RES-MSGC-SSASS-46-23-ANX-4",
+   "PE-RES-MSGC-SSASS-46-23-ANX-5",
+   "PE-RES-MSGC-SSASS-46-23-ANX-6"
+  ],
+  "con_articulo_de_seguros": [
+   "PE-RES-MSGC-SSASS-46-23-ANX"
+  ]
+ },
+ {
+  "base": "PE-RES-MEDGC-SSGEFYAR-5-23",
+  "nota": "Mantenimiento de edificios escolares (2023)",
+  "documentos_encontrados": [
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX",
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-1",
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-2",
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-3",
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-4",
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-5",
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-6",
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-7",
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-8",
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-9"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-RES-MEDGC-SSGEFYAR-90-20",
+  "nota": "Servicio alimentario escolar (2020)",
+  "documentos_encontrados": [
+   "PE-RES-MEDGC-SSGEFYAR-90-20-ANX",
+   "PE-RES-MEDGC-SSGEFYAR-90-20-ANX-1"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-DEC-AJG-AJG-55-22",
+  "nota": "Alimentacion (2022)",
+  "documentos_encontrados": [
+   "PE-DEC-AJG-AJG-55-22-ANX",
+   "PE-DEC-AJG-AJG-55-22-ANX-1",
+   "PE-DEC-AJG-AJG-55-22-ANX-2",
+   "PE-DEC-AJG-AJG-55-22-ANX-3",
+   "PE-DEC-AJG-AJG-55-22-ANX-4",
+   "PE-DEC-AJG-AJG-55-22-ANX-5",
+   "PE-DEC-AJG-AJG-55-22-ANX-6",
+   "PE-DEC-AJG-AJG-55-22-ANX-7"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-RES-MMIGC-SSPO-24-26",
+  "nota": "Obra ascensores Torre Espacial (2026)",
+  "documentos_encontrados": [
+   "PE-RES-MMIGC-SSPO-24-26-ANX",
+   "PE-RES-MMIGC-SSPO-24-26-ANX-1",
+   "PE-RES-MMIGC-SSPO-24-26-ANX-2",
+   "PE-RES-MMIGC-SSPO-24-26-ANX-3",
+   "PE-RES-MMIGC-SSPO-24-26-ANX-4",
+   "PE-RES-MMIGC-SSPO-24-26-ANX-5",
+   "PE-RES-MMIGC-SSPO-24-26-ANX-6",
+   "PE-RES-MMIGC-SSPO-24-26-ANX-7",
+   "PE-RES-MMIGC-SSPO-24-26-ANX-8",
+   "PE-RES-MMIGC-SSPO-24-26-ANX-9"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-RESDIC-MJGGC-SBASE-158-26",
+  "nota": "Subterraneos (2026)",
+  "documentos_encontrados": [
+   "PE-RESDIC-MJGGC-SBASE-158-26-ANX",
+   "PE-RESDIC-MJGGC-SBASE-158-26-ANX-1",
+   "PE-RESDIC-MJGGC-SBASE-158-26-ANX-2",
+   "PE-RESDIC-MJGGC-SBASE-158-26-ANX-3"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-RES-MSGC-SSASS-605-26",
+  "nota": "Salud (2026)",
+  "documentos_encontrados": [
+   "PE-RES-MSGC-SSASS-605-26-ANX",
+   "PE-RES-MSGC-SSASS-605-26-ANX-1",
+   "PE-RES-MSGC-SSASS-605-26-ANX-2",
+   "PE-RES-MSGC-SSASS-605-26-ANX-3",
+   "PE-RES-MSGC-SSASS-605-26-ANX-4",
+   "PE-RES-MSGC-SSASS-605-26-ANX-5",
+   "PE-RES-MSGC-SSASS-605-26-ANX-6",
+   "PE-RES-MSGC-SSASS-605-26-ANX-7",
+   "PE-RES-MSGC-SSASS-605-26-ANX-8",
+   "PE-RES-MSGC-SSASS-605-26-ANX-9"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-RES-MSEGC-SSGA-334-25",
+  "nota": "Seguridad (2025)",
+  "documentos_encontrados": [
+   "PE-RES-MSEGC-SSGA-334-25-ANX",
+   "PE-RES-MSEGC-SSGA-334-25-ANX-1"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-DIS-MSGC-DGABS-531-19",
+  "nota": "Insumos medicos (2019)",
+  "documentos_encontrados": [
+   "PE-DIS-MSGC-DGABS-531-19-ANX",
+   "PE-DIS-MSGC-DGABS-531-19-ANX-1"
+  ],
+  "con_articulo_de_seguros": []
+ },
+ {
+  "base": "PE-DIS-MHGC-DGCYC-402-18",
+  "nota": "Seguridad y vigilancia convenio marco (2018)",
+  "documentos_encontrados": [
+   "PE-DIS-MHGC-DGCYC-402-18-ANX"
+  ],
+  "con_articulo_de_seguros": [
+   "PE-DIS-MHGC-DGCYC-402-18-ANX"
+  ]
+ }
+]

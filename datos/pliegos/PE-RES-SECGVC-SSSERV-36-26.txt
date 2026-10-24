@@ -1,0 +1,197 @@
+===== PE-RES-SECGVC-SSSERV-36-26-ANX  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-SECGVC-SSSERV-36-26-ANX.pdf
+OBJETO: ARTÍCULO 2 - CONTENIDO DE LA COTIZACIÓN 4 ARTÍCULO 3 - ALCANCE DEL PLIEGO 5 ARTÍCULO 4 - CONDICIONES DEL SERVICIO. 5 ARTÍCULO 5 - ESPECIFICACIONES TÉCNICAS GENERALES 6 RENGLÓN 1 - SERVICIO INTEGRAL DE VEHÍCULOS ADAPTADOS A DOBLE COMANDO, SISTEMA DE MONITOREO Y TELEMETRÍA. 6 a) Adaptación de los vehículos a doble comando 6 b) Sistema de monitoreo y telemetría 7 c) Sistema de video registro 7 d) Gestión de accesos e interfaz de usuario 8 e) Plan de Migración Progresiva y Reemplazo de Unidades 8 AR
+
+--- PARRAFOS QUE MENCIONAN SEGUROS ---
+* grabación, en los diferentes puntos del sistema, se requiere que el estándar de comprensión a utilizar sea al menos H264, a fin de garantizar la calidad requerida utilizando el menor consumo de ancho de banda de red y asimismo la menor capacidad del disco para el almacenamiento. d) Gestión de accesos e interfaz de usuario El sistema de monitoreo deberá permitir la configuración de diferentes niveles de acceso, mediante la definición de usuarios con perfiles diferencias, permitiendo un control seguro de los accesos y del uso del sistema. Como mínimo deberán contemplarse tres perfiles básicos de acceso: Administrador, Configuración y Usuario de monitoreo. La interfaz del sistema deberá permitir la visualización de una o varias cámaras de video en tiempo real seleccionadas por el usuario en el puesto de trabajo, acceder al historial de video de las diferentes ubicaciones, buscar por día y h
+
+===== PE-RES-SECGVC-SSSERV-36-26-ANX-1  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-SECGVC-SSSERV-36-26-ANX-1.pdf
+OBJETO: ARTÍCULO 3.- RENGLON. PRESUPUESTO OFICIAL 6 ARTÍCULO 4.- PLAZO DE VIGENCIA DE LA CONTRATACIÓN. INICIO DEL SERVICIO. 7 ARTÍCULO 5.- INTEGRALIDAD EN LA GESTIÓN DEL SERVICIO. OBLIGACIÓN DE RESULTADO. ESENCIALIDAD EN LA NATURALEZA DEL SERVICIO. 8 ARTÍCULO 6.- MARCO NORMATIVO - ORDEN DE PRELACIÓN 9 ARTÍCULO 7.- TERMINOLOGÍA Y ABREVIATURAS 100 ARTÍCULO 8.- AUTORIDAD DE APLICACIÓN 11 ARTÍCULO 9.- CONSTITUCIÓN DE DOMICILIO Y NOTIFICACIONES 122 ARTÍCULO 10.- POLÍTICAS Y ESTÁNDARES TECNOLÓGICOS 133 ARTÍCU
+
+--- ARTICULO DE SEGUROS ---
+ARTÍCULO 39.6.- SEGUROS ACCIDENTES DE TRABAJO 49
+
+--- ARTICULO DE SEGUROS ---
+ARTÍCULO 40.- SEGUROS 49
+
+--- ARTICULO DE SEGUROS ---
+ARTÍCULO 39.6.- SEGUROS ACCIDENTES DE TRABAJO 
+La firma adjudicataria será responsable de su personal por accidentes de trabajo, para 
+lo cual deberá contratar un seguro que cubra la totalidad de las obligaciones fijadas por 
+la Ley sobre Riesgos del Trabajo Nº 24.557, su s modificatorias y sus decretos 
+reglamentarios. 
+El seguro deberá cubrir los riesgos y accidentes de trabajo y/o enfermedades 
+profesionales e inculpables amparando las indemnizaciones por incapacidad 
+permanente, parcial y absoluta, incapacidad temporaria y/o muerte, accidente “in itinere” 
+y prestación médico-farmacéutica, por el monto máximo que fijara la legislación vigente. 
+Además, la firma adjudicataria deberá presentar una “declaración jurada”, donde conste 
+que todo el personal afectado a la prestación s e encuentra cubierto por este seguro, 
+ 
+GOBIERNO DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES 
+ 
+Dirección General Habilitación a Conductores  
+Subsecretaría de Servicios 
+Secretaría de Gobierno y Vínculo Ciudadano 
+ 
+ 
+ 
+indicando el número de la póliza correspondiente y el nombre de la Compañía 
+Aseguradora. 
+En caso que el personal no se encuentre contratado bajo relación de dependencia, se 
+deberá contar con un seguro de accidentes personales de similares características a las 
+fijadas por la Ley sobre Riesgos del Trabajo Nº 24.557 y sus modificatorias.
+
+--- ARTICULO DE SEGUROS ---
+ARTÍCULO 40.- SEGUROS 
+a) Generalidades  
+El adjudicatario deberá contratar los seguros que se detallan en el presente artículo 
+y acredita r la constitución de los mismos y su vigencia durante todo el periodo 
+contractual, mediante la presentación de copias de sus respectivas pólizas y 
+comprobantes de pago del premio.  
+La contratación de los seguros que aquí se refiere es independiente de aque llos 
+otros que le sean legalmente exigibles al adjudicatario por su actividad a fin de 
+brindar cobertura a los posibles daños que afecten a terceros, como consecuencia 
+de otras cuestiones atinentes a su actividad.  
+El adjudicatario deberá mantener actualiz adas todas las pólizas de los seguros 
+exigidos con antelación no menor a cuarenta y ocho (48) horas a que opere la fecha 
+de vencimiento de las mismas, que deberán tener vigencia hasta la 
+efectiva finalización de los trabajos encomendados conforme el contra to y/o 
+contratos celebrados, incluidas las posibles prórrogas.  
+Si durante la prestación de la ejecución contractual se produjera el vencimiento de 
+las pólizas, el adjudicatario estará obligado a constituir nuevos seguros hasta la 
+finalización efectiva de la relación Contractual, con una antelación no menos de 
+cuarenta y ocho (48) horas a que opere la fecha de vencimiento de las mismas.  
+El adjudicatario será el único responsable de los perjuicios que ocasionare la 
+inobservancia de los seguros exigidos en el presente Pliego, en las formas y con la 
+vigencia estipulada, quedando el GCABA exento de toda responsabilidad respecto 
+de cualquier siniestro que se produjera en este caso.  
+ 
+GOBIERNO DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES 
+ 
+Dirección General Habilitación a Conductores  
+Subsecretaría de Servicios 
+Secretaría de Gobierno y Vínculo Ciudadano 
+ 
+ 
+ 
+Queda entendido que, sin perjuicio de su responsabilidad general por los siniestros 
+que pudieran ocurrir durante los trabajos contratados, el Contratista asume el 
+importe de las franquicias obligatorias impuestas por las Compañías Aseguradoras.  
+ 
+b) De las compañías aseguradoras  
+Las coberturas de seguros deberán ser contratados en un a empresa aseguradora 
+habilitada por la Superintendencia de Seguros de la Nación, con domicilio en la 
+Ciudad de Buenos Aires y que al menos cuente con un Patrimonio Neto superior a 
+los $ 50.000.000.000 (pesos cincuenta mil millones), de acuerdo al último b alance 
+anual presentado ante la citada Superintendencia y publicado por la misma. Deberá 
+acreditar también una calificación establecida por una calificadora de Riesgo 
+autorizada a operar en la República Argentina.  
+Lo dicho anteriormente y enumerado en materia de patrimonio no será requerido en 
+los supuestos de coberturas del ramo Riesgos del Trabajo, Daño Ambiental de 
+Incidencia Colectiva y/ó Caución (Garantías de cumplimiento).  
+ 
+c) De los seguros en particular  
+1) Laborales:  
+Los exigidos por las leyes laborales vigentes para proteger al personal en relación 
+de dependencia, mediante seguro suscripto con una Aseguradora de Riesgo del 
+Trabajo (ART) autorizada para brindar ese tipo de cobertura, incluyendo 
+específicamente las cont ingencias derivadas de los accidentes de trabajo, de 
+muerte, invalidez total o parcial.  
+Asimismo, el GCABA no asumirá responsabilidad alguna por reclamos de terceros 
+con los que el adjudicatario hubiere contratado a los fines de cumplir con las 
+obligaciones emergentes del presente Pliego, del Pliego de Especificaciones 
+Técnicas, y del Contrato.  
+Seguro de riesgos del trabajo  
+ 
+GOBIERNO DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES 
+ 
+Dirección General Habilitación a Conductores  
+Subsecretaría de Servicios 
+Secretaría de Gobierno y Vínculo Ciudadano 
+ 
+ 
+ 
+Cobertura de riesgos del trabajo, para trabajadores en relación de dependencia:  
+Se deberá acompañar junto con la póliza, certificad os de cobertura de los 
+trabajadores, en los cuales se detalle el siguiente texto:  
+“Por la presente, la A.R.T, renuncia en forma expresa a reclamar o iniciar toda acción 
+de repetición o de regreso contra el Gobierno de la Ciudad de Autónoma de Buenos 
+Aires., sus funcionarios y/o empleados, sea con fundamento en el art. 39 ap. 5 de la 
+Ley 24.557 y modificatorias, o en cualquier otra norma jurídica, con motivo de las 
+prestaciones en especie o dinerarias que se vea obligada a abonar, contratar u 
+otorgar al personal dependiente o ex dependiente del adjudicatario, amparados por 
+la cobertura del contrato de afiliación N° XXXX, por accidentes 
+del trabajo o enfermedades profesionales, ocurridos o contraídas por el hecho o en 
+ocasión de trabajo.” 
+ 
+ 2) Seguro de accidentes personales (en caso de corresponder)  
+Cobertura de seguro de accidentes personales, para quienes prestan servicios bajo 
+las distintas modalidades de contratación y no revistan relación de dependencia con 
+el adjudicatario.  
+Se deberá acompañar junto con la póliza, certificados de cobertura de los 
+trabajadores, en los cuales se detalle el siguiente texto:  
+“Por la presente, la “Aseguradora”, renuncia en forma expresa a reclamar o iniciar 
+toda acción de repetición o de regreso contra el Gobierno de la Ciudad de Autónoma 
+de Buenos Aires., sus funcionarios y/ó empleados, con motivo de la s prestaciones 
+en especie o dinerarias que se vea obligada a abonar, contratar u otorgar a los 
+prestadores de servicios que haya contratado el adjudicatario, amparados por la 
+póliza N° XXXX y por accidentes ocurridos por el hecho o en ocasión de trabajo.”  
+Las condiciones de cobertura mínimas serán las siguientes:  
+La aseguradora se obligará a indemnizar a los asegurados, ante el fallecimiento 
+accidental e invalidez total y/o parcial permanente derivados de accidentes 
+acaecidos, como así también en concepto  de las erogaciones en que se incurran 
+ 
+GOBIERNO DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES 
+ 
+Dirección General Habilitación a Conductores  
+Subsecretaría de Servicios 
+Secretaría de Gobierno y Vínculo Ciudadano 
+ 
+ 
+ 
+por asistencia médica y/o farmacéutica según topes indemnizatorios determinados 
+en póliza  
+Alcance de las coberturas:  
+Jornada de servicio incluyendo cobertura in-itinere.  
+Sumas a Asegurar (Monto Mínimo):  
+Muerte: $11.000.000 (Pesos once millones).  
+Invalidez Total y/o parcial permanente por accidente: $11.000.000 (Pesos once 
+millones). Asistencia Médico Farmacéutica (AMF): $750.000 (Pesos setecientos 
+cincuenta mil).  
+ 
+3) Seguro de Responsabilidad Civil comprensiva  
+El adjudicatario debe asegurar, bajo póliza de responsabilidad civil, los daños que 
+como consecuencia de tareas inherentes a su actividad pudieran ocasionar a 
+personas, bienes o cosas de propiedad del GCABA o de terceros.  
+ 
+Suma Asegurada Mínima: La misma será por un monto mínimo de $500.000.000 
+(Pesos quinientos millones). Se detallan de manera enunciativa y no taxativa las 
+coberturas adicionales a incluirse de corresponder en cada caso: A) 
+Responsabilidad Civil emergente de escapes de gas, incendio, rayo y /o explosión, 
+descargas eléctricas. B) Daños por caída de objetos, carteles y/o letreros  
+ 
+4) Daños por hechos maliciosos, tumulto popular.  
+El contrato deberá contener un endoso en carácter de co -asegurado sin restricción 
+de ninguna especie o naturaleza a favor del GCABA.  
+Los empleados del GCABA deberán ser considerados terceros en póliza.  
+ 
+5) Seguro de Automotor  
+El concesionario debe asegurar, bajo póliza automotor de los vehículos y/o trailers 
+ 
+GOBIERNO DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES 
+ 
+Dirección General Habilitación a Conductores  
+Subsecretaría de Servicios 
+Secretaría de Gobierno y Vínculo Ciudadano 
+ 
+ 
+ 
+utilizados en la prestación del servicio, la responsabilidad civil obligatoria de 
+conformidad con lo establecido en la normativa vigente:  
+Por lesiones y/ó muerte y daños a cosas de terceros no transportados y por lesiones 
+y/ó muerte únicamente de terceros transportados.  
+ 
+Sumas Aseguradas:  
+Por acontecimiento hasta los límites máximos y uniformes de cobertura por 
+acontecimiento autorizados por la SSN, de acuerdo a la categoría de vehículo.
+
+
