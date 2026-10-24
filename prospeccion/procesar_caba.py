@@ -239,7 +239,7 @@ def main():
             "cuit": c["cuit"], "razon_social": c["razon_social"],
             "contratos_vigentes": 0, "monto_total": 0.0,
             "proximo_vencimiento": c["vencimiento"], "ultimo_vencimiento": c["vencimiento"],
-            "rubros": set(), "organismos": set(),
+            "rubros": set(), "organismos": set(), "objetos": set(),
             "ejemplo_objeto": c["objeto"], "link_fuente": c["link_fuente"],
             "contacto_nombre": "", "email": "", "telefono": "", "web": "",
             "direccion": "", "localidad": "", "codigo_postal": "",
@@ -254,6 +254,8 @@ def main():
             e["rubros"].add(c["rubro"])
         if c["organismo"]:
             e["organismos"].add(c["organismo"])
+        if c["objeto"]:
+            e["objetos"].add(c["objeto"].strip())
         if c["revisar"]:
             e["revisar"] = "si"
         if not e["link_fuente"] and c["link_fuente"]:
@@ -263,6 +265,7 @@ def main():
     for e in empresas.values():
         e["rubros"] = " | ".join(sorted(e["rubros"]))
         e["organismos"] = " | ".join(sorted(e["organismos"]))
+        e["objetos"] = " || ".join(sorted(e["objetos"]))[:4000]
         e["monto_total"] = round(e["monto_total"], 2)
         for k, v in contactos.get(e["cuit"], {}).items():
             e[k] = v
