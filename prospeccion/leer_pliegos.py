@@ -50,9 +50,34 @@ def articulos(texto):
         yield texto[a:b].strip()
 
 
+def secciones_seguro(texto):
+    """Busca encabezados SEGUROS en el texto normalizado y devuelve los tramos con mas contenido."""
+    plano = re.sub(r"\s+", " ", texto)
+    tramos = []
+    for m in re.finditer(r"SEGUROS|Seguros\.", plano):
+        ini = max(0, m.start() - 120)
+        fin_busca = re.search(r"(ART[ÍI]CULO|Art[íi]culo)\s*(N[°º.]?\s*)?\d+", plano[m.end() + 300:])
+        fin = m.end() + 300 + (fin_busca.start() if fin_busca else 4000)
+        fin = min(fin, m.end() + 6000)
+        tramo = plano[ini:fin]
+        peso = len(re.findall(r"p[óo]liza|asegurad|ART\b|responsabilidad civil|accidentes", tramo, re.I))
+        if peso >= 3:
+            tramos.append((peso, ini, tramo))
+    tramos.sort(reverse=True)
+    elegidos = []
+    for peso, ini, tramo in tramos:
+        if all(abs(ini - e[0]) > 1500 for e in elegidos):
+            elegidos.append((ini, tramo))
+        if len(elegidos) == 2:
+            break
+    return [t for _, t in sorted(elegidos)]
+
+
 def objeto(texto):
-    m = re.search(r"OBJETO[^\n]*\n(.{0,700})", texto, re.I | re.S)
-    return re.sub(r"\s+", " ", m.group(1)).strip()[:500] if m else ""
+    plano = re.sub(r"\s+", " ", texto)
+    candidatos = [plano[m.end():m.end() + 450] for m in re.finditer(r"OBJETO", plano, re.I)]
+    candidatos = [c for c in candidatos if not re.search(r"\d\s+(Art[íi]culo|ART[ÍI]CULO)", c[:200])]
+    return candidatos[0].strip() if candidatos else ""
 
 
 def main():
@@ -80,7 +105,7 @@ def main():
             except Exception as e:
                 docs.append({"documento": nombre, "error": repr(e)[:150]})
                 continue
-            arts_seguro = [a for a in articulos(txt) if RE_SEGURO_TITULO.search(a.split("\n", 1)[0])]
+            arts_seguro = secciones_seguro(txt)
             parrafos = [re.sub(r"\s+", " ", p).strip() for p in re.split(r"\n\s*\n|(?<=\.)\n", txt)
                         if PALABRAS.search(p)]
             docs.append({
