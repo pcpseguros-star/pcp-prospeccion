@@ -1,0 +1,41 @@
+{
+ "corrida": "2026-10-24T16:31:15+00:00",
+ "fuente": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-economia-y-finanzas/buenos-aires-compras/bac_anual.json",
+ "publicado_por_la_ciudad": "2026-08-31T23:17:19+00:00",
+ "procesos_en_archivo": 23298,
+ "adjudicaciones_por_anio": {
+  "2022": 13835
+ },
+ "filtro": "servicios u obras, contrato de 365 dias o mas, vigente al 2026-10-24",
+ "contratos_que_pasan_el_filtro": 20,
+ "empresas_distintas": 3,
+ "empresas_por_rubro": {
+  "Salud": 3
+ },
+ "top_10_por_monto": [
+  {
+   "razon_social": "DROGUERIA ARTIGAS S.A.",
+   "cuit": "30-65124936-4",
+   "contratos_vigentes": 14,
+   "monto_total": 14439800.0,
+   "proximo_vencimiento": "2052-08-16",
+   "rubros": "Salud"
+  },
+  {
+   "razon_social": "DROGUERIA MARTORANI S.A.",
+   "cuit": "30-70296606-6",
+   "contratos_vigentes": 2,
+   "monto_total": 1999120.0,
+   "proximo_vencimiento": "2052-08-16",
+   "rubros": "Salud"
+  },
+  {
+   "razon_social": "ORL MED S.A.",
+   "cuit": "30-71469944-6",
+   "contratos_vigentes": 4,
+   "monto_total": 1719600.0,
+   "proximo_vencimiento": "2034-04-01",
+   "rubros": "Salud"
+  }
+ ]
+}
