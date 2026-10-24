@@ -1,0 +1,11 @@
+cuit,razon_social,web,email,telefono,otros_emails,otros_telefonos,confianza_web,como_se_leyo,fecha_busqueda
+30500983988,FRIGORIFICO ONETO Y CIA. SAIC,https://frioneto.com.ar/,info@frioneto.com.ar,08102203746,,+541143060021 | +541143060022,alta,web directa + lectura Tavily,2026-10-24
+30623608677,EDENRED ARGENTINA S.A.,https://edenred.com.ar/,ar@edenred.com,00000057,clientes-ar@edenred.com | nombre@dominio.com | tucorreo@empresa.com,857142857142 | 14141400,alta,web directa,2026-10-24
+30702250400,E.V.A. S.A.,https://www.caipic.org.ar/,caipic@caipic.org.ar,54 11) 7505-8909,ventas@compuestosdeeva.com.ar,52967842 | 00000094,baja,web directa,2026-10-24
+30707416528,REDIMER S.A.,https://redimer.com.ar/,info@redimer.com.ar,(+001)1234567890,,155358996679 | 154598265999,alta,web directa,2026-10-24
+30707712208,DIENST CONSULTING SOCIEDAD ANONIMA,https://dienst.com.ar/,contacto@dienst.com.ar,11-2662-0242,,,alta,web directa + lectura Tavily,2026-10-24
+30710439326,ARTFUL S.A.,https://www.artful.com.ar/,info@artful.com.ar,2545352419,,502174924 | 3537389287,alta,web directa,2026-10-24
+30714214221,LULEY SA,https://luleypharma.com/,info@luleypharma.com,4932-2900,,,alta,web directa,2026-10-24
+30715861050,G Y C COMUNICACIONES S.A.,https://www.gesycom.com.ar/,,1140190300,,1488448670 | 156125376774,baja,web directa + lectura Tavily,2026-10-24
+30717465071,MECHP SRL- BLINKAY MOBILITY SLU UNION TRANSITORIA,https://blinkay.com/,soporte-ar@blinkay.com,00000057,soporte-mx@blinkay.com | support-na@integraparking.zendesk.com | support.usa@integraparking.zendesk.com,2146854814 | 674868818,alta,web directa,2026-10-24
+33711479029,FIVEMASA S.A.,https://fivemasa.com.ar/,info@fivemasa.com.ar,+54 (11) 4613-5661,alejandra.romano@fivemasa.com.ar | mario.gatica@fivemasa.com.ar,+54 (11) 4613-7902,alta,web directa,2026-10-24

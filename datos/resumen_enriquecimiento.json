@@ -1,0 +1,92 @@
+{
+ "fecha": "2026-10-24",
+ "buscadas_en_esta_corrida": 10,
+ "con_web": 10,
+ "web_confianza_alta": 8,
+ "con_email": 9,
+ "con_telefono": 10,
+ "creditos_tavily_usados": 13,
+ "total_en_base": 10,
+ "detalle": [
+  {
+   "razon_social": "DIENST CONSULTING SOCIEDAD ANONIMA",
+   "web": "https://dienst.com.ar/",
+   "confianza_web": "alta",
+   "email": "contacto@dienst.com.ar",
+   "telefono": "11-2662-0242",
+   "como_se_leyo": "web directa + lectura Tavily"
+  },
+  {
+   "razon_social": "MECHP SRL- BLINKAY MOBILITY SLU UNION TRANSITORIA",
+   "web": "https://blinkay.com/",
+   "confianza_web": "alta",
+   "email": "soporte-ar@blinkay.com",
+   "telefono": "00000057",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "LULEY SA",
+   "web": "https://luleypharma.com/",
+   "confianza_web": "alta",
+   "email": "info@luleypharma.com",
+   "telefono": "4932-2900",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "G Y C COMUNICACIONES S.A.",
+   "web": "https://www.gesycom.com.ar/",
+   "confianza_web": "baja",
+   "email": "",
+   "telefono": "1140190300",
+   "como_se_leyo": "web directa + lectura Tavily"
+  },
+  {
+   "razon_social": "E.V.A. S.A.",
+   "web": "https://www.caipic.org.ar/",
+   "confianza_web": "baja",
+   "email": "caipic@caipic.org.ar",
+   "telefono": "54 11) 7505-8909",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "ARTFUL S.A.",
+   "web": "https://www.artful.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@artful.com.ar",
+   "telefono": "2545352419",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "REDIMER S.A.",
+   "web": "https://redimer.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@redimer.com.ar",
+   "telefono": "(+001)1234567890",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "EDENRED ARGENTINA S.A.",
+   "web": "https://edenred.com.ar/",
+   "confianza_web": "alta",
+   "email": "ar@edenred.com",
+   "telefono": "00000057",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "FRIGORIFICO ONETO Y CIA. SAIC",
+   "web": "https://frioneto.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@frioneto.com.ar",
+   "telefono": "08102203746",
+   "como_se_leyo": "web directa + lectura Tavily"
+  },
+  {
+   "razon_social": "FIVEMASA S.A.",
+   "web": "https://fivemasa.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@fivemasa.com.ar",
+   "telefono": "+54 (11) 4613-5661",
+   "como_se_leyo": "web directa"
+  }
+ ]
+}
