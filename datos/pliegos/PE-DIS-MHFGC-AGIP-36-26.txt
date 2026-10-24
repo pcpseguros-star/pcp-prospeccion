@@ -1,64 +1,12 @@
 ===== PE-DIS-MHFGC-AGIP-36-26-ANX  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-DIS-MHFGC-AGIP-36-26-ANX.pdf
-OBJETO: DE LA CONTRATACIÓN 02 2. CONDICIONES PARTICULARES - MARCO NORMATIVO 02 3. TERMINOLOGÍA Y ABREVIATURAS 02 4. CÓMPUTO DE PLAZOS 04 5. CUMPLIMIENTO CONTRACTUAL 04 6. ADQUISICIÓN DE PLIEGOS, CONSULTAS Y CIRCULARES 05 7. IMPUGNACIONES AL PLIEGO 05 8. DOMICILIO Y NOTIFICACIONES 06 9. JURISDICCIÓN 06 10. REGISTRO DE PROVEEDORES (RIUPP) 06 11. FACTURAS APÓCRIFAS 07 12. DOCUMENTACIÓN CONTRACTUAL – ORDEN DE PRELACIÓN 07 13. CONDICIONES PARA SER OFERENTE
+OBJETO: DE LA CONTRATACIÓN 02 2. CONDICIONES PARTICULARES - MARCO NORMATIVO 02 3. TERMINOLOGÍA Y ABREVIATURAS 02 4. CÓMPUTO DE PLAZOS 04 5. CUMPLIMIENTO CONTRACTUAL 04 6. ADQUISICIÓN DE PLIEGOS, CONSULTAS Y CIRCULARES 05 7. IMPUGNACIONES AL PLIEGO 05 8. DOMICILIO Y NOTIFICACIONES 06 9. JURISDICCIÓN 06 10. REGISTRO DE PROVEEDORES (RIUPP) 06 11. FACTURAS APÓCRIFAS 07 12. DOCUMENTACIÓN CONTRACTUAL – ORDEN DE PRELACIÓN 07 13. CONDICIONES PARA SER OFERENTE 0
 
---- PARRAFOS QUE MENCIONAN SEGUROS ---
-* SEGUROS
-* Art.
-* (Art.
-* Art.
-* Art.
-* Art.
-* póliza,
-* (Art.
-* Art.
-* Art.
-* Art.
-* Art.
-* art.
-* Art.
-* Art.
-* Art.
-* Art.
-* seguros,
-* SEGUROS
-* seguros
-* seguro
-* pólizas
-* póliza
-* aseguradora,
-* pólizas
-* seguros
-* pólizas
-* ASEGURADORAS
-* aseguradoras
-* Seguros
-* aseguradora
-* seguro.
-* SEGURO
-* seguro:
-* Seguros
-* Seguro
-* seguro
-* Aseguradora
-* (ART).
-* Seguro
-* póliza
-* seguros
-* póliza
-* Seguro
-* póliza
-* Co-asegurado:
-* co-asegurado
-* póliza.
-* póliza
-* pólizas
-* seguros
-* art
-* Art.
-* Art.
+--- ARTICULO DE SEGUROS ---
+rarse incursos en las causales establecidas en el punto 15 IMPEDIMENTOS PARA SER OFERENTES del presente. ARTÍCULO 36° - SEGUROS - COBERTURAS (DI-2022-601-GCABA-DGCYC) 1. GENERALIDADES En el presente se detallan las coberturas de seguros a requerir para el ingreso y permanencia de terceros ajenos, sean proveedores, contratistas y/o adjudicatarios que desarrollen actividades en ubicaciones que el Gobierno de la Ciudad Autónoma de Buenos Aires (en adelante GCABA) posea en propiedad o en uso, como así también las características mínimas de admisibilidad de las mismas. Los referidos proveedores, contratistas y/o adjudicatarios deberán acreditar los contratos de seguro que se detallan en el punto 3 del presente Anexo, mediante la presentación de las copias de sus respectivas pólizas y los comprobantes de pago de las mismas. Los citados pagos deberán estar vigentes durante todo el período contractual. Cuando el proveedor, contratista y/o adjudicatario modifique las condiciones de la póliza o cambie de compañía aseguradora, o bien, cada vez que el GCABA lo solicite, deberá presentar las copias de las pólizas contratadas. La contratación de los seguros que aquí se requieren es independiente de aquellos otros que deba poseer el proveedor, contratista y/o adjudicatario a fin de cubrir los posibles daños o pérdidas que afecten a sus bienes o a los de sus empleados, sean éstos o no de carácter obligatorio. Queda a criterio del GCABA, conforme las actividades a realizar por los proveedores, contratistas y/o adjudicatarios la inclusión, y/o exclusión de cláusulas de cobertura y modificación de sumas aseguradas, durante la vigencia de las pólizas contratadas, los cuales deberán acreditar el endoso correspondiente a tales cambios. 2. DE LAS COMPAÑÍAS ASEGURADORAS Las compañías aseguradoras con las cuales el proveedor, contratista y/o adjudicatario contrate las coberturas establecidas en este Anexo, deberán ser de 26 PLIEG-2026-18456257-GCABA-AGIP Página 26 de 38 reconocida solvencia, radicadas en la Ciudad Autónoma de Buenos Aires o que posean filial administrativa local, y autorizadas a tal fin por la Superintendencia de Seguros de la Nación, para emitir contratos en los riesgos a cubrir. El GCABA se reserva el derecho de solicitar a su solo juicio, el cambio de compañía aseguradora si la contratada no alcanzará los parámetros esperados en los indicadores generales, patrimoniales y de gestión en atención al riesgo asumido en el contrato de seguro. 3. DE LAS COBERTURAS DE SEGURO EN PARTICULAR Las coberturas que se le exijan al proveedor, contratista y/o adjudicatario deberán acreditar aun cuando disponga de otras, las siguientes condiciones mínimas en cada contrato de seguro: 3.1 Seguros Laborales - Seguro de Riesgos de Trabajo En cumplimiento de la legislación vigente, deberá acreditar un seguro que cubra a la totalidad del personal que afecte a la contratación, el cual será suscripto con una Aseguradora de Riesgos de Trabajo (ART). No se podrá afectar personal alguno, cualquiera sea su índole, hasta que el mismo no cuente con su correspondiente cobertura por riesgo de accidentes de trabajo. Cláusula de no repetición: Se deberán presentar al GCABA los certificados de cobertura de los trabajadores amparados, en los cuales estará incluido el siguiente texto: “Por la presente, la A.R.T renuncia en forma expresa a reclamar o iniciar toda acción de repetición, de subrogación o de regreso contra el Gobierno de la Ciudad Autónoma de Buenos Aires, sus funcionarios y/o empleados, sea con fundamento en el 
+
 
 ===== PE-DIS-MHFGC-AGIP-36-26-ANX-1  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-DIS-MHFGC-AGIP-36-26-ANX-1.pdf
-OBJETO: El presente proceso de compra tien e por objeto la contratación de un “Servicio de mantenimiento preventivo y correctivo de los sistemas de alarma y detección temprana de incendio s en los edificios pert enecientes a la Administración Gubernamental de Ingresos Públicos ”, con destino a la Dirección de Intendencia perteneciente a la Subdirección General Técnica Administrativa y de Gestión Operativa de la Administración Gubernamental de Ingresos Públicos, en un todo de acuerdo con los requerimient
+OBJETO: DE LA CONTRATACIÓN El presente proceso de compra tien e por objeto la contratación de un “Servicio de mantenimiento preventivo y correctivo de los sistemas de alarma y detección temprana de incendio s en los edificios pert enecientes a la Administración Gubernamental de Ingresos Públicos ”, con destino a la Dirección de Intendencia perteneciente a la Subdirección General Técnica Administrativa y de Gestión Operativa de la Administración Gubernam
 
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 * ● Planillas con los datos del personal interviniente (nombre, apellido y número de documento, el cual deberá ser el mismo que presente con el certificado de la ART). ● Todos los certificados deberán estar acompañados por los pagos actualizados. ● Copia del Plan de Seguridad e Higiene aprobado por la ART, cronograma de trabajo de acuerdo a lo que se establezca en el plan de seguridad. ● Planillas de entrega de elementos de protección personal, planillas de capacitaciones generales y específicas de acuerdo a las tareas a realizar dentro del contrato. ● Deberá contar con un profesional en Seguridad e Higiene, con acreditación de matrícula vigente.

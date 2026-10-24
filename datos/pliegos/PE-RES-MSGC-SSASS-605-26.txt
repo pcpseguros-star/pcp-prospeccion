@@ -1,5 +1,5 @@
 ===== PE-RES-MSGC-SSASS-605-26-ANX  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MSGC-SSASS-605-26-ANX.pdf
-OBJETO: documentos, lugares o cualquier elemento de valor. ● Vida Útil: Tiempo máximo de aprovechamiento de un espacio, sistema, maquinaria o repuesto recomendado por el fabricante. ● Obsolescencia: condición de un equipo y/o instalación, que aún encontrándose operativo, presenta descontinuación por parte del fabricante, limitaciones en la disponibilidad de repuestos, o costos de reparación que exceden el sesenta por ciento (60 %) del valor de un equipo nuevo equivalente. ● Consumible: Componente que se
+OBJETO: s, documentos, lugares o cualquier elemento de valor. ● Vida Útil: Tiempo máximo de aprovechamiento de un espacio, sistema, maquinaria o repuesto recomendado por el fabricante. ● Obsolescencia: condición de un equipo y/o instalación, que aún encontrándose operativo, presenta descontinuación por parte del fabricante, limitaciones en la disponibilidad de repuestos, o costos de reparación que exceden el sesenta por ciento (60 %) del valor de un equi
 
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 * 5 CAPÍTULO 1: INTRODUCCIÓN Y ALCANCE 1.1 INTRODUCCIÓN El mantenimiento de los establecimientos de salud es fundamental para garantizar la seguridad, el buen funcionamiento y la continuidad de los servicios médicos. En un entorno sanitario, las interrupciones o fallas en las instalaciones pueden comprometer la salud de los pacientes, así como la integridad del personal y los visitantes. Este manual ha sido desarrollado para guiar a todo el personal involucrado en las tareas de mantenimiento integral dentro de los establecimientos de salud del Gobierno de la Ciu dad Autónoma de Buenos Aires (GCABA). Nuestro objetivo es proporcionar directrices claras y estandarizadas que aseguren la correcta implementación de los procesos establecidos por las normativas vigentes, contribuyendo a la creación de un ambiente seguro y saludable. Según la OMS, la seguridad del paciente es "un marco de actividad
@@ -14,7 +14,7 @@ OBJETO: documentos, lugares o cualquier elemento de valor. ● Vida Útil: Tiemp
 * 59 CAPÍTULO 14: MANTENIMIENTO DE MEDIOS MECÁNICOS DE ELEVACIÓN Y TRANSPORTE MECANIZADO. 14.1 INTRODUCCIÓN Y GENERALIDADES Si bien el transporte vertical es de suma importancia ya sea en edificios públicos o privados, a fin de garantizar la accesibilidad de personas con movilidad reducida, en efectores de salud cobra mayor importancia, ante el requerimiento de traslado seguro y eficiente de pacientes en camas, camillas o sillas de ruedas, como también de equipamiento médico. Asimismo, los medios mecánicos de elevación permiten el traslado de insumos dentro del efector. Debido a esto se debe asegurar el uso continuo de los mismos, en función de las instrucciones de uso y mantenimiento de los fabricantes de los equipos y de la experiencia de los especialistas en el tema.
 
 ===== PE-RES-MSGC-SSASS-605-26-ANX-1  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MSGC-SSASS-605-26-ANX-1.pdf
-OBJETO: El presente Anexo tiene por objeto establecer las condiciones particulares aplicables a la operación, conservación y mantenimiento integral de las viviendas, residencias transitorias y demás inmuebles destinados al alojamiento de pacientes en proceso de recuperación, rehabilitación, reinserción sociosanitaria o tratamiento ambulatorio prolongado, dependientes del MSGCABA. 2. Alcance El numeral 3.10 del PETG se complementa con las siguientes especificaciones, que establecen las acciones que deber
+OBJETO: El presente Anexo tiene por objeto establecer las condiciones particulares aplicables a la operación, conservación y mantenimiento integral de las viviendas, residencias transitorias y demás inmuebles destinados al alojamiento de pacientes en proceso de recuperación, rehabilitación, reinserción sociosanitaria o tratamiento ambulatorio prolongado, dependientes del MSGCABA. 2. Alcance El numeral 3.10 del PETG se complementa con las siguientes espe
 
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 * seguro.
@@ -25,13 +25,13 @@ OBJETO:
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 
 ===== PE-RES-MSGC-SSASS-605-26-ANX-3  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MSGC-SSASS-605-26-ANX-3.pdf
-OBJETO: La presente especificación tiene por objeto establecer el alcance de la provisión y montaje, así como también fijar las normas de aplicación diseño, fabricación, inspección y ensayos de los elementos y equipos que conformarán las instalaciones eléctricas de soporte al suministro eléctrico de BT. Las tareas consisten en la ejecución de la ingeniería, provisión e instalación de un grupo electrógeno que se corresponda mínimamente con el doble de la potencia estimada de cada Centro a intervenir, los
+OBJETO: La presente especificación tiene por objeto establecer el alcance de la provisión y montaje, así como también fijar las normas de aplicación diseño, fabricación, inspección y ensayos de los elementos y equipos que conformarán las instalaciones eléctricas de soporte al suministro eléctrico de BT. Las tareas consisten en la ejecución de la ingeniería, provisión e instalación de un grupo electrógeno que se corresponda mínimamente con el doble de la
 
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 * seguros.
 
 ===== PE-RES-MSGC-SSASS-605-26-ANX-4  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MSGC-SSASS-605-26-ANX-4.pdf
-OBJETO: Y APLICACIÓN 2 2. TAREAS COMPLEMENTARIAS 2 2.1. OBRADOR 2 2.2. CIERRE DEL ÁREA DE TRABAJO 2 2.3. CARTELES DE OBRA / LETREROS 2 2.4. PAVIMENTOS PROVISORIOS 3 2.5. SEGURIDAD 3 2.6. VIGILANCIA E ILUMINACIÓN 3 2.7. SUPERVISIÓN, CONTROL Y AVANCE DE TRABAJO 3 2.8. LIMPIEZA PERIÓDICA Y FINAL DE TRABAJO EN LOCALES 3 2.9. PLANOS 3 2.10. INSPECCIONES Y/O ENSAYOS 6 2.11. RESPONSABILIDAD DEL CONTRATISTA 6 2.12. INTERFERENCIA EN LOS TRABAJOS DE OPERACIÓN DEL RF 6 2.13. RELACIONES CON OTROS CONTRATISTAS 6 3. 
+OBJETO: Y APLICACIÓN 2 2. TAREAS COMPLEMENTARIAS 2 2.1. OBRADOR 2 2.2. CIERRE DEL ÁREA DE TRABAJO 2 2.3. CARTELES DE OBRA / LETREROS 2 2.4. PAVIMENTOS PROVISORIOS 3 2.5. SEGURIDAD 3 2.6. VIGILANCIA E ILUMINACIÓN 3 2.7. SUPERVISIÓN, CONTROL Y AVANCE DE TRABAJO 3 2.8. LIMPIEZA PERIÓDICA Y FINAL DE TRABAJO EN LOCALES 3 2.9. PLANOS 3 2.10. INSPECCIONES Y/O ENSAYOS 6 2.11. RESPONSABILIDAD DEL CONTRATISTA 6 2.12. INTERFERENCIA EN LOS TRABAJOS DE OPERACIÓN DEL
 
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 * seguro
@@ -43,13 +43,13 @@ OBJETO:
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 
 ===== PE-RES-MSGC-SSASS-605-26-ANX-6  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MSGC-SSASS-605-26-ANX-6.pdf
-OBJETO: revisión y rellenado de aceite y refrigerante si corresponde, como también del sistema de alarmas y detección de fugas, y las acciones correctivas que correspondan. Además de lo enunciado para interiores de mobiliario fijo. NO APLICA x LA EMPRESA CONTRATISTA DE MANTENIMIENTO REALIZARÁ LAS RUTINAS SÓLO EN LOS CASOS EN QUE LAS CÁMARAS FRIGORÍFICAS NO PERTENEZCAN A UN ÁREA CONCESIONADA O A CARGO DE TERCEROS. B 23 Cámaras frigoríficas. Efectuar un mantenimiento que comprenderá, al menos, los siguien
+OBJETO: de esta licitación, la que considerará, al menos, la revisión y rellenado de aceite y refrigerante si corresponde, como también del sistema de alarmas y detección de fugas, y las acciones correctivas que correspondan. Además de lo enunciado para interiores de mobiliario fijo. NO APLICA x LA EMPRESA CONTRATISTA DE MANTENIMIENTO REALIZARÁ LAS RUTINAS SÓLO EN LOS CASOS EN QUE LAS CÁMARAS FRIGORÍFICAS NO PERTENEZCAN A UN ÁREA CONCESIONADA O A CARGO
 
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 * x C 188 Verificar el funcionamiento y estado de la iluminación anti-explosiva y adecuar, en caso de ser necesario. x B 189 Verificar el funcionamiento y estado de las válvulas solenoides, realizar el control de fugas, calibrado y adecuar, en caso de ser necesario. x C 190 Verificar el funcionamiento y estado de los presóstatos, realizar el control de fugas, calibrado, limpieza y adecuar, en caso de ser necesario. x C 191 Verificar el funcionamiento y estado de los sistemas de encendido, realizar el control y adecuar, en caso de ser necesario. x C 192 Verificar el funcionamiento y estado de los sistemas de seguridad, realizar el control y adecuar, en caso de ser necesario. x C 193 Verificar el funcionamiento y regulaciones de los servo-motores y actuadores, realizar el control de fugas, pruebas y calibrado, en caso de ser necesario. x C 194 Verificar el funcionamiento y estado de los vari
 
 ===== PE-RES-MSGC-SSASS-605-26-ANX-7  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MSGC-SSASS-605-26-ANX-7.pdf
-OBJETO: 4 2. DOTACIÓN MÍNIMA DE PERSONAL - RECURSOS FÍSICOS DEL CONTRATISTA - PLAN DE TRABAJOS. 4 2.1 Dotación mínima de personal 4 2.2 Recursos físicos del contratista 5 2.3. Plan de trabajos 5 3. ESTANDARIZACIÓN 5 3.1. Definición de líneas de materiales y productos 5 3.2. Seguridad del elemento 5 3.3. Optimización de recursos 5 3.4. Definición de modalidad de ejecución 6 4. PREPARACIÓN DE ÁREAS A INTERVENIR 6 5. RUTINAS DE MANTENIMIENTO 7 5.1. Rutinas de mantenimiento predictivo 7 5.2. Rutinas de mant
+OBJETO: 4 2. DOTACIÓN MÍNIMA DE PERSONAL - RECURSOS FÍSICOS DEL CONTRATISTA - PLAN DE TRABAJOS. 4 2.1 Dotación mínima de personal 4 2.2 Recursos físicos del contratista 5 2.3. Plan de trabajos 5 3. ESTANDARIZACIÓN 5 3.1. Definición de líneas de materiales y productos 5 3.2. Seguridad del elemento 5 3.3. Optimización de recursos 5 3.4. Definición de modalidad de ejecución 6 4. PREPARACIÓN DE ÁREAS A INTERVENIR 6 5. RUTINAS DE MANTENIMIENTO 7 5.1. Rutinas
 
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 * Art.
@@ -59,12 +59,12 @@ OBJETO: 4 2. DOTACIÓN MÍNIMA DE PERSONAL - RECURSOS FÍSICOS DEL CONTRATISTA -
 * seguro
 
 ===== PE-RES-MSGC-SSASS-605-26-ANX-8  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MSGC-SSASS-605-26-ANX-8.pdf
-OBJETO: Y APLICACIÓN El presente anexo de PLANILLA MODELO DE INVENTARIO Y CODIFICACIÓN tiene por objeto complementar los pliegos de Especificaciones Técnicas Generales y Particulares para la Contratación de la Gestión, Operación y Mantenimiento Integral del Recurso Físico, Edificios e Instalaciones , en lo referente a la actualización de los inventarios. 2. INVENTARIO A partir del Anexo IV DOCUMENTACIÓN TÉCNICA Y GRÁFICA del PETP y lo relevado por el contratista según el sistema de gestión (Inventario, 
+OBJETO: Y APLICACIÓN El presente anexo de PLANILLA MODELO DE INVENTARIO Y CODIFICACIÓN tiene por objeto complementar los pliegos de Especificaciones Técnicas Generales y Particulares para la Contratación de la Gestión, Operación y Mantenimiento Integral del Recurso Físico, Edificios e Instalaciones , en lo referente a la actualización de los inventarios. 2. INVENTARIO A partir del Anexo IV DOCUMENTACIÓN TÉCNICA Y GRÁFICA del PETP y lo relevado por el co
 
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 
 ===== PE-RES-MSGC-SSASS-605-26-ANX-9  https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MSGC-SSASS-605-26-ANX-9.pdf
-OBJETO: Y APLICACIÓN El presente anexo de EQUIPOS Y HERRAMIENTAS tiene por objeto complementar los pliegos de Especificaciones Técnicas Generales y Particulares para la Contratación de la Gestión, Operación y Mantenimiento Integral del Recurso Físico, Edificios e Instalaciones, en lo referente al conjunto de herramientas manuales, equipos eléctricos y a batería, instrumentos de medición, maquinarias de apoyo y elementos auxiliares que deberán estar disponibles en el efector de forma permanente para gara
+OBJETO: Y APLICACIÓN El presente anexo de EQUIPOS Y HERRAMIENTAS tiene por objeto complementar los pliegos de Especificaciones Técnicas Generales y Particulares para la Contratación de la Gestión, Operación y Mantenimiento Integral del Recurso Físico, Edificios e Instalaciones, en lo referente al conjunto de herramientas manuales, equipos eléctricos y a batería, instrumentos de medición, maquinarias de apoyo y elementos auxiliares que deberán estar disp
 
 --- PARRAFOS QUE MENCIONAN SEGUROS ---
 

@@ -6,7 +6,9 @@
    "PE-RES-MSGC-SSASS-550-26-ANX",
    "PE-RES-MSGC-SSASS-550-26-ANX-1"
   ],
-  "con_articulo_de_seguros": []
+  "con_articulo_de_seguros": [
+   "PE-RES-MSGC-SSASS-550-26-ANX"
+  ]
  },
  {
   "base": "PE-RES-SECGVC-SSSERV-36-26",
@@ -37,7 +39,9 @@
    "PE-RES-MMIGC-SECTR-33-26-ANX",
    "PE-RES-MMIGC-SECTR-33-26-ANX-1"
   ],
-  "con_articulo_de_seguros": []
+  "con_articulo_de_seguros": [
+   "PE-RES-MMIGC-SECTR-33-26-ANX"
+  ]
  },
  {
   "base": "PE-DIS-MHFGC-AGIP-36-26",
@@ -46,7 +50,9 @@
    "PE-DIS-MHFGC-AGIP-36-26-ANX",
    "PE-DIS-MHFGC-AGIP-36-26-ANX-1"
   ],
-  "con_articulo_de_seguros": []
+  "con_articulo_de_seguros": [
+   "PE-DIS-MHFGC-AGIP-36-26-ANX"
+  ]
  },
  {
   "base": "PE-RES-MSGC-SSASS-46-23",
@@ -79,7 +85,9 @@
    "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-8",
    "PE-RES-MEDGC-SSGEFYAR-5-23-ANX-9"
   ],
-  "con_articulo_de_seguros": []
+  "con_articulo_de_seguros": [
+   "PE-RES-MEDGC-SSGEFYAR-5-23-ANX"
+  ]
  },
  {
   "base": "PE-RES-MEDGC-SSGEFYAR-90-20",
@@ -103,7 +111,9 @@
    "PE-DEC-AJG-AJG-55-22-ANX-6",
    "PE-DEC-AJG-AJG-55-22-ANX-7"
   ],
-  "con_articulo_de_seguros": []
+  "con_articulo_de_seguros": [
+   "PE-DEC-AJG-AJG-55-22-ANX"
+  ]
  },
  {
   "base": "PE-RES-MMIGC-SSPO-24-26",
@@ -120,7 +130,10 @@
    "PE-RES-MMIGC-SSPO-24-26-ANX-8",
    "PE-RES-MMIGC-SSPO-24-26-ANX-9"
   ],
-  "con_articulo_de_seguros": []
+  "con_articulo_de_seguros": [
+   "PE-RES-MMIGC-SSPO-24-26-ANX",
+   "PE-RES-MMIGC-SSPO-24-26-ANX-8"
+  ]
  },
  {
   "base": "PE-RESDIC-MJGGC-SBASE-158-26",
@@ -131,7 +144,9 @@
    "PE-RESDIC-MJGGC-SBASE-158-26-ANX-2",
    "PE-RESDIC-MJGGC-SBASE-158-26-ANX-3"
   ],
-  "con_articulo_de_seguros": []
+  "con_articulo_de_seguros": [
+   "PE-RESDIC-MJGGC-SBASE-158-26-ANX"
+  ]
  },
  {
   "base": "PE-RES-MSGC-SSASS-605-26",
@@ -157,7 +172,9 @@
    "PE-RES-MSEGC-SSGA-334-25-ANX",
    "PE-RES-MSEGC-SSGA-334-25-ANX-1"
   ],
-  "con_articulo_de_seguros": []
+  "con_articulo_de_seguros": [
+   "PE-RES-MSEGC-SSGA-334-25-ANX"
+  ]
  },
  {
   "base": "PE-DIS-MSGC-DGABS-531-19",
@@ -174,8 +191,6 @@
   "documentos_encontrados": [
    "PE-DIS-MHGC-DGCYC-402-18-ANX"
   ],
-  "con_articulo_de_seguros": [
-   "PE-DIS-MHGC-DGCYC-402-18-ANX"
-  ]
+  "con_articulo_de_seguros": []
  }
 ]
