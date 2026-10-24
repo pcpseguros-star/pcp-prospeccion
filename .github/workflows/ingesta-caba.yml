@@ -41,5 +41,6 @@ jobs:
             echo "Sin cambios"
           else
             git commit -m "Ingesta CABA $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           fi
