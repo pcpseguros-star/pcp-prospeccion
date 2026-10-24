@@ -35,7 +35,7 @@ PALABRAS = re.compile(r"seguro|p[óo]liza|riesgos del trabajo|\bART\b|responsabi
 
 def bajar(url):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=120) as r:
+    with urllib.request.urlopen(req, timeout=25) as r:
         return r.read()
 
 
@@ -64,11 +64,16 @@ def main():
     for fu in fuentes:
         base = fu["base"].strip()
         docs = []
+        fallos_seguidos = 0
         for suf in SUFIJOS:
+            if fallos_seguidos >= 2 and suf != "ANX-1":
+                break  # no hay mas anexos
             nombre = f"{base}-{suf}"
             try:
                 datos = bajar(URL.format(nombre))
+                fallos_seguidos = 0
             except Exception:
+                fallos_seguidos += 1
                 continue
             try:
                 txt = texto_pdf(datos)
@@ -101,7 +106,7 @@ def main():
             "documentos_encontrados": [d["documento"] for d in docs],
             "con_articulo_de_seguros": [d["documento"] for d in docs if d.get("articulos_seguro")],
         })
-        print(base, "->", resumen[-1]["documentos_encontrados"], "| seguros en:", resumen[-1]["con_articulo_de_seguros"])
+        print(base, "->", resumen[-1]["documentos_encontrados"], "| seguros en:", resumen[-1]["con_articulo_de_seguros"], flush=True)
 
     with open(os.path.join(DATOS, "pliegos_resumen.json"), "w", encoding="utf-8") as f:
         json.dump(resumen, f, ensure_ascii=False, indent=1)
