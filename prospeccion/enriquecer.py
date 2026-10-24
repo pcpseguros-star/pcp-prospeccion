@@ -173,6 +173,21 @@ def emails_de(texto, dom):
     return sorted(propios, key=orden) + sorted(otros, key=orden)
 
 
+def tel_valido(t):
+    d = re.sub(r"\D", "", t or "")
+    if len(d) < 8 or len(d) > 13:
+        return False
+    if len(d) == 8 and re.fullmatch(r"(19|20)\d{6}", d):
+        return False  # parece una fecha
+    if len(d) == 11 and d[0] in "23":
+        return False  # parece un CUIT
+    if len(set(d)) <= 2 or re.search(r"0{4,}", d) or d.startswith("00"):
+        return False  # relleno tipo 00000057
+    if any(x in d for x in ("1234567", "2345678", "3456789", "9876543")):
+        return False  # relleno tipo 1234567890
+    return True
+
+
 def telefonos_de(texto):
     texto = html.unescape(texto)
     cand = [urllib.parse.unquote(t) for t in re.findall(r"tel:([^\"'>\s]+)", texto, re.I)]
@@ -182,13 +197,7 @@ def telefonos_de(texto):
     vistos, salida = set(), []
     for t in cand:
         d = re.sub(r"\D", "", t)
-        if len(d) < 8 or len(d) > 13:
-            continue
-        if len(d) == 8 and re.fullmatch(r"(19|20)\d{6}", d):
-            continue  # parece una fecha
-        if len(d) == 11 and d[0] in "23":
-            continue  # parece un CUIT
-        if len(set(d)) <= 2:
+        if not tel_valido(t):
             continue
         clave = d[-8:]
         if clave in vistos:
@@ -265,6 +274,9 @@ def main():
     if os.path.exists(SALIDA):
         with open(SALIDA, encoding="utf-8") as f:
             for r in csv.DictReader(f):
+                tels = [t for t in [r.get("telefono", "")] + (r.get("otros_telefonos") or "").split(" | ") if tel_valido(t)]
+                r["telefono"] = tels[0] if tels else ""
+                r["otros_telefonos"] = " | ".join(tels[1:3])
                 hechas[r["cuit"]] = r
     with open(ENTRADA, encoding="utf-8") as f:
         empresas = [e for e in csv.DictReader(f) if e["cuit"] not in hechas]
