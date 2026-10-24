@@ -111,6 +111,8 @@ def main():
 
     tenders = {}          # clave de proceso -> datos del llamado
     contactos = {}        # CUIT -> datos de contacto publicados por la Ciudad
+    muestra_parties = []  # diagnostico: como vienen las partes en el archivo
+    campos_parties = defaultdict(int)
     evidencias = []       # contratos/adjudicaciones candidatos
     filas = 0
     por_tag = defaultdict(int)
@@ -136,6 +138,10 @@ def main():
                     tenders.setdefault(k, info)
 
         for pa in agrupar(fila, RE_PARTY):
+            for k in pa:
+                campos_parties[k] += 1
+            if len(muestra_parties) < 8 and pa not in muestra_parties:
+                muestra_parties.append(pa)
             cuit = cuit_limpio(pa.get("identifier/id") or pa.get("id"))
             if len(cuit) != 11:
                 continue
@@ -298,6 +304,8 @@ def main():
                                "email", "telefono")}
             for e in filas_empresas[:15]
         ],
+        "parties_campos_con_dato": dict(campos_parties),
+        "parties_muestra": muestra_parties,
         "columnas_del_archivo": [c for c in columnas if not re.search(r"/items/[1-9]", c or "")][:300],
     }
     with open(os.path.join(SALIDA, "resumen.json"), "w", encoding="utf-8") as f:
