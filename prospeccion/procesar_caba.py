@@ -38,6 +38,14 @@ SALIDA = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))
 RE_AWARD = re.compile(r"^awards/(\d+)/(.+)$")
 RE_CONTRACT = re.compile(r"^contracts/(\d+)/(.+)$")
 RE_PERSONA = re.compile(r"^(suppliers|signatories)/(\d+)/(id|name)$")
+RE_PARTY = re.compile(r"^parties/(\d+)/(.+)$")
+RE_CUIT = re.compile(r"(\d{2})-?(\d{8})-?(\d)")
+
+
+def cuit_limpio(x):
+    """Deja el CUIT solo con numeros (11 digitos), sin guiones."""
+    m = RE_CUIT.search(str(x or ""))
+    return "".join(m.groups()) if m else re.sub(r"\D", "", str(x or ""))
 
 csv.field_size_limit(sys.maxsize)
 
@@ -102,6 +110,7 @@ def main():
     columnas = lector.fieldnames or []
 
     tenders = {}          # clave de proceso -> datos del llamado
+    contactos = {}        # CUIT -> datos de contacto publicados por la Ciudad
     evidencias = []       # contratos/adjudicaciones candidatos
     filas = 0
     por_tag = defaultdict(int)
@@ -126,6 +135,18 @@ def main():
                 if k:
                     tenders.setdefault(k, info)
 
+        for pa in agrupar(fila, RE_PARTY):
+            cuit = cuit_limpio(pa.get("identifier/id") or pa.get("id"))
+            if len(cuit) != 11:
+                continue
+            c = contactos.setdefault(cuit, {})
+            for campo, col in (("contacto_nombre", "contactPoint/name"), ("email", "contactPoint/email"),
+                               ("telefono", "contactPoint/telephone"), ("web", "contactPoint/url"),
+                               ("direccion", "address/streetAddress"), ("localidad", "address/locality"),
+                               ("codigo_postal", "address/postalCode")):
+                if pa.get(col) and not c.get(campo):
+                    c[campo] = pa[col]
+
         for aw in agrupar(fila, RE_AWARD):
             ini = fecha(aw.get("contractPeriod/startDate"))
             fin = fecha(aw.get("contractPeriod/endDate"))
@@ -134,7 +155,7 @@ def main():
                 evidencias.append({
                     "claves": (ocid, tid, aw.get("id", "")),
                     "id": aw.get("id", ""), "origen": "adjudicacion",
-                    "cuit": s["id"], "razon_social": s.get("name", ""),
+                    "cuit": cuit_limpio(s["id"]), "razon_social": s.get("name", ""),
                     "objeto": aw.get("title", "") or aw.get("description", ""),
                     "fecha": fecha(aw.get("date")), "inicio": ini, "vencimiento": fin,
                     "dias": dias, "monto": num(aw.get("value/amount")),
@@ -150,7 +171,7 @@ def main():
                 evidencias.append({
                     "claves": (ocid, tid, ct.get("awardID", "")),
                     "id": ct.get("awardID", "") or ct.get("id", ""), "origen": "contrato",
-                    "cuit": s["id"], "razon_social": s.get("name", ""),
+                    "cuit": cuit_limpio(s["id"]), "razon_social": s.get("name", ""),
                     "objeto": ct.get("title", "") or ct.get("description", ""),
                     "fecha": fecha(ct.get("dateSigned")), "inicio": ini, "vencimiento": fin,
                     "dias": dias, "monto": num(ct.get("value/amount")),
@@ -214,6 +235,8 @@ def main():
             "proximo_vencimiento": c["vencimiento"], "ultimo_vencimiento": c["vencimiento"],
             "rubros": set(), "organismos": set(),
             "ejemplo_objeto": c["objeto"], "link_fuente": c["link_fuente"],
+            "contacto_nombre": "", "email": "", "telefono": "", "web": "",
+            "direccion": "", "localidad": "", "codigo_postal": "",
             "revisar": "", "fuente": "CABA - Buenos Aires Compras",
             "estado": "detectada", "fecha_alta": hoy,
         })
@@ -235,6 +258,8 @@ def main():
         e["rubros"] = " | ".join(sorted(e["rubros"]))
         e["organismos"] = " | ".join(sorted(e["organismos"]))
         e["monto_total"] = round(e["monto_total"], 2)
+        for k, v in contactos.get(e["cuit"], {}).items():
+            e[k] = v
         filas_empresas.append(e)
     filas_empresas.sort(key=lambda e: -e["monto_total"])
 
@@ -263,11 +288,14 @@ def main():
         "filtro": f"servicios u obras, {DURACION_MINIMA_DIAS} dias o mas, vigente al {hoy}",
         "contratos_que_pasan_el_filtro": len(contratos),
         "empresas_distintas": len(filas_empresas),
+        "empresas_con_email": sum(1 for e in filas_empresas if e["email"]),
+        "empresas_con_telefono": sum(1 for e in filas_empresas if e["telefono"]),
         "empresas_a_revisar_por_vencimiento_muy_largo": sum(1 for e in filas_empresas if e["revisar"]),
         "empresas_por_rubro": dict(sorted(por_rubro.items(), key=lambda x: -x[1])),
         "top_15_por_monto": [
             {k: e[k] for k in ("razon_social", "cuit", "contratos_vigentes", "monto_total",
-                               "proximo_vencimiento", "rubros", "revisar")}
+                               "proximo_vencimiento", "rubros", "localidad",
+                               "email", "telefono")}
             for e in filas_empresas[:15]
         ],
         "columnas_del_archivo": [c for c in columnas if not re.search(r"/items/[1-9]", c or "")][:300],
