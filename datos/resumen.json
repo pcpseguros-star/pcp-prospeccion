@@ -1,5 +1,5 @@
 {
- "corrida": "2026-10-24T16:57:00+00:00",
+ "corrida": "2026-10-24T17:11:37+00:00",
  "fuente": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-economia-y-finanzas/buenos-aires-compras/bac_anual.csv",
  "filas_en_archivo": 55385,
  "filas_por_etapa": {
@@ -205,6 +205,120 @@
    "localidad": "",
    "email": "",
    "telefono": ""
+  }
+ ],
+ "parties_campos_con_dato": {
+  "name": 55019,
+  "id": 54522,
+  "identifier/scheme": 55385,
+  "identifier/id": 54519,
+  "identifier/legalName": 55019,
+  "roles": 55385,
+  "address/streetAddress": 38156,
+  "address/locality": 38156,
+  "address/postalCode": 38156,
+  "address/countryName": 38156,
+  "contactPoint/name": 38156,
+  "contactPoint/email": 38156,
+  "contactPoint/telephone": 38156,
+  "contactPoint/url": 38156
+ },
+ "parties_muestra": [
+  {
+   "name": "Direccion General Concesiones y Permisos",
+   "id": "CABA-UE-10002",
+   "identifier/scheme": "CABA-UE",
+   "identifier/id": "10002",
+   "identifier/legalName": "Direccion General Concesiones y Permisos",
+   "roles": "procuringEntity",
+   "address/streetAddress": "Rivadavia 524, 1º Piso",
+   "address/locality": "Ciudad de Buenos Aires",
+   "address/postalCode": "C1002AAQ",
+   "address/countryName": "Republica Argentina",
+   "contactPoint/name": "Mesa de Ayuda BAC",
+   "contactPoint/email": "mesadeayudabac@dguiaf-gcba.gob.ar",
+   "contactPoint/telephone": "+5401152364800",
+   "contactPoint/url": "https://www.buenosairescompras.gob.ar"
+  },
+  {
+   "name": "SECRETARIA LEGAL Y TECNICA",
+   "id": "CABA-UE-101",
+   "identifier/scheme": "CABA-UE",
+   "identifier/id": "101",
+   "identifier/legalName": "SECRETARIA LEGAL Y TECNICA",
+   "roles": "procuringEntity",
+   "address/streetAddress": "Rivadavia 524, 1º Piso",
+   "address/locality": "Ciudad de Buenos Aires",
+   "address/postalCode": "C1002AAQ",
+   "address/countryName": "Republica Argentina",
+   "contactPoint/name": "Mesa de Ayuda BAC",
+   "contactPoint/email": "mesadeayudabac@dguiaf-gcba.gob.ar",
+   "contactPoint/telephone": "+5401152364800",
+   "contactPoint/url": "https://www.buenosairescompras.gob.ar"
+  },
+  {
+   "name": "DIR.GRAL.MESA  DE ENTRADAS, SALIDAS Y ARCHIVO",
+   "id": "CABA-UE-146",
+   "identifier/scheme": "CABA-UE",
+   "identifier/id": "146",
+   "identifier/legalName": "DIR.GRAL.MESA  DE ENTRADAS, SALIDAS Y ARCHIVO",
+   "roles": "buyer",
+   "address/streetAddress": "Rivadavia 524, 1º Piso",
+   "address/locality": "Ciudad de Buenos Aires",
+   "address/postalCode": "C1002AAQ",
+   "address/countryName": "Republica Argentina",
+   "contactPoint/name": "Mesa de Ayuda BAC",
+   "contactPoint/email": "mesadeayudabac@dguiaf-gcba.gob.ar",
+   "contactPoint/telephone": "+5401152364800",
+   "contactPoint/url": "https://www.buenosairescompras.gob.ar"
+  },
+  {
+   "name": "JOSÉ RAFAEL FIDANZA",
+   "id": "AR-CUIT-23056686339-supplier",
+   "identifier/scheme": "AR-CUIT",
+   "identifier/id": "23056686339",
+   "identifier/legalName": "JOSÉ RAFAEL FIDANZA",
+   "roles": "supplier"
+  },
+  {
+   "name": "ELECTROGRAFICA SRL",
+   "id": "AR-CUIT-33651573659-supplier",
+   "identifier/scheme": "AR-CUIT",
+   "identifier/id": "33651573659",
+   "identifier/legalName": "ELECTROGRAFICA SRL",
+   "roles": "supplier"
+  },
+  {
+   "name": "Metallum S.A.S",
+   "id": "AR-CUIT-30716756641-supplier",
+   "identifier/scheme": "AR-CUIT",
+   "identifier/id": "30716756641",
+   "identifier/legalName": "Metallum S.A.S",
+   "roles": "supplier"
+  },
+  {
+   "name": "EJES S.A",
+   "id": "AR-CUIT-33-66341994-9-supplier",
+   "identifier/scheme": "AR-CUIT",
+   "identifier/id": "33-66341994-9",
+   "identifier/legalName": "EJES S.A",
+   "roles": "supplier"
+  },
+  {
+   "name": "SECRETARIA LEGAL Y TECNICA",
+   "id": "CABA-UE-101",
+   "identifier/scheme": "CABA-UE",
+   "identifier/id": "101",
+   "identifier/legalName": "SECRETARIA LEGAL Y TECNICA",
+   "roles": "buyer;procuringEntity",
+   "address/streetAddress": "Rivadavia 524, 1º Piso",
+   "address/locality": "Ciudad de Buenos Aires",
+   "address/postalCode": "C1002AAQ",
+   "address/countryName": "Republica Argentina",
+   "contactPoint/name": "Mesa de Ayuda BAC",
+   "contactPoint/email": "mesadeayudabac@dguiaf-gcba.gob.ar",
+   "contactPoint/telephone": "+5401152364800",
+   "contactPoint/url": "https://www.buenosairescompras.gob.ar"
   }
  ],
  "columnas_del_archivo": [
