@@ -57,8 +57,8 @@ def secciones_seguro(texto):
     for m in re.finditer(r"SEGUROS|Seguros\.", plano):
         ini = max(0, m.start() - 120)
         fin_busca = re.search(r"(ART[ÍI]CULO|Art[íi]culo)\s*(N[°º.]?\s*)?\d+", plano[m.end() + 300:])
-        fin = m.end() + 300 + (fin_busca.start() if fin_busca else 4000)
-        fin = min(fin, m.end() + 6000)
+        fin = m.end() + 300 + (fin_busca.start() if fin_busca else 12000)
+        fin = min(fin, m.end() + 16000)
         tramo = plano[ini:fin]
         peso = len(re.findall(r"p[óo]liza|asegurad|ART\b|responsabilidad civil|accidentes", tramo, re.I))
         if peso >= 3:
