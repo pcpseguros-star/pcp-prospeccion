@@ -1,0 +1,24 @@
+name: Bajar recursos de marca
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  marca:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bajar logo del sitio
+        run: |
+          mkdir -p marca
+          curl -sSfL -o marca/logo_pcp.png https://pcpasesoresdeseguros.ar/wp-content/uploads/2026/06/logo_pcp_transparente.png
+          ls -la marca
+      - name: Guardar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add marca/
+          git diff --cached --quiet || (git commit -m "Logo PCP" && git pull --rebase origin main && git push)
