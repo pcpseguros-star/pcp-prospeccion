@@ -1,92 +1,252 @@
 {
  "fecha": "2026-10-24",
- "buscadas_en_esta_corrida": 10,
- "con_web": 10,
- "web_confianza_alta": 8,
- "con_email": 9,
- "con_telefono": 10,
- "creditos_tavily_usados": 13,
- "total_en_base": 10,
+ "buscadas_en_esta_corrida": 226,
+ "con_web": 221,
+ "web_confianza_alta": 169,
+ "con_email": 180,
+ "con_telefono": 200,
+ "creditos_tavily_usados": 301,
+ "total_en_base": 236,
  "detalle": [
   {
-   "razon_social": "DIENST CONSULTING SOCIEDAD ANONIMA",
-   "web": "https://dienst.com.ar/",
+   "razon_social": "ELECTROGRAFICA SRL",
+   "web": "https://www.electrograficasrl.com.ar/",
    "confianza_web": "alta",
-   "email": "contacto@dienst.com.ar",
-   "telefono": "11-2662-0242",
+   "email": "info@electrograficasrl.com.ar",
+   "telefono": "54-11) 4206-4430",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "MEDIFARM SA.",
+   "web": "http://www.medifarm.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@medifarm.com.ar",
+   "telefono": "1792864209",
    "como_se_leyo": "web directa + lectura Tavily"
   },
   {
-   "razon_social": "MECHP SRL- BLINKAY MOBILITY SLU UNION TRANSITORIA",
-   "web": "https://blinkay.com/",
+   "razon_social": "FAICSA SA EQUIMAC SACIF e I UT",
+   "web": "https://www.faicsa.com/",
    "confianza_web": "alta",
-   "email": "soporte-ar@blinkay.com",
-   "telefono": "00000057",
+   "email": "faicsabiedma@faicsa.com",
+   "telefono": "458333333333",
    "como_se_leyo": "web directa"
   },
   {
-   "razon_social": "LULEY SA",
-   "web": "https://luleypharma.com/",
+   "razon_social": "BLUE STEEL S. A.",
+   "web": "https://bsteel.com.ar/",
    "confianza_web": "alta",
-   "email": "info@luleypharma.com",
-   "telefono": "4932-2900",
+   "email": "info@bsteel.com.ar",
+   "telefono": "+5411) 4796-0468",
    "como_se_leyo": "web directa"
   },
   {
-   "razon_social": "G Y C COMUNICACIONES S.A.",
-   "web": "https://www.gesycom.com.ar/",
+   "razon_social": "JOSÉ RAFAEL FIDANZA",
+   "web": "https://una.edu.ar/",
+   "confianza_web": "baja",
+   "email": "rectorado.academica@una.edu.ar",
+   "telefono": "177942408593",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "PROGUIDE SRL",
+   "web": "https://proguide.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@proguide.com.ar",
+   "telefono": "11 4528 7950",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "FILIP S.A.",
+   "web": "https://www.lighting.philips.com.ar/",
    "confianza_web": "baja",
    "email": "",
-   "telefono": "1140190300",
+   "telefono": "0800-333-0324",
    "como_se_leyo": "web directa + lectura Tavily"
   },
   {
-   "razon_social": "E.V.A. S.A.",
-   "web": "https://www.caipic.org.ar/",
+   "razon_social": "MEDI SISTEM S.R.L.",
+   "web": "https://medisistemsrl.com/",
+   "confianza_web": "alta",
+   "email": "arielgutierrez@medisistemsrl.com",
+   "telefono": "+541148546154",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "BIOMÉRIEUX ARGENTINA SA",
+   "web": "https://guiademantenimiento.com/",
    "confianza_web": "baja",
-   "email": "caipic@caipic.org.ar",
-   "telefono": "54 11) 7505-8909",
+   "email": "ventas@gidemasrl.com",
+   "telefono": "70854929",
    "como_se_leyo": "web directa"
   },
   {
-   "razon_social": "ARTFUL S.A.",
-   "web": "https://www.artful.com.ar/",
+   "razon_social": "LAVADERO EL LUCERO SRL",
+   "web": "https://www.ellucero.com.ar/",
    "confianza_web": "alta",
-   "email": "info@artful.com.ar",
-   "telefono": "2545352419",
+   "email": "clientes@ellucero.com.ar",
+   "telefono": "+541145833114",
    "como_se_leyo": "web directa"
   },
   {
-   "razon_social": "REDIMER S.A.",
-   "web": "https://redimer.com.ar/",
+   "razon_social": "TRANS URBAN S.A.",
+   "web": "https://transban.com.ar/",
    "confianza_web": "alta",
-   "email": "info@redimer.com.ar",
-   "telefono": "(+001)1234567890",
-   "como_se_leyo": "web directa"
-  },
-  {
-   "razon_social": "EDENRED ARGENTINA S.A.",
-   "web": "https://edenred.com.ar/",
-   "confianza_web": "alta",
-   "email": "ar@edenred.com",
-   "telefono": "00000057",
-   "como_se_leyo": "web directa"
-  },
-  {
-   "razon_social": "FRIGORIFICO ONETO Y CIA. SAIC",
-   "web": "https://frioneto.com.ar/",
-   "confianza_web": "alta",
-   "email": "info@frioneto.com.ar",
-   "telefono": "08102203746",
+   "email": "",
+   "telefono": "110461871",
    "como_se_leyo": "web directa + lectura Tavily"
   },
   {
-   "razon_social": "FIVEMASA S.A.",
-   "web": "https://fivemasa.com.ar/",
+   "razon_social": "BIODIAGNOSTICO S.A.",
+   "web": "https://biodiagnostico.com.ar/",
    "confianza_web": "alta",
-   "email": "info@fivemasa.com.ar",
-   "telefono": "+54 (11) 4613-5661",
+   "email": "",
+   "telefono": "+54114300",
+   "como_se_leyo": "web directa + lectura Tavily"
+  },
+  {
+   "razon_social": "Asserca S.R.L.",
+   "web": "https://www.asserca.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@asserca.com.ar",
+   "telefono": "11 6792-8307",
    "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "DROGUERIA ARTIGAS S.A.",
+   "web": "https://drogueriaartigas.com.ar/",
+   "confianza_web": "alta",
+   "email": "n@drogueriaartigas.com.ar",
+   "telefono": "+54-911-45555285",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "Jonathan Trajtembroit",
+   "web": "https://www.dunsguide.com/",
+   "confianza_web": "baja",
+   "email": "",
+   "telefono": "",
+   "como_se_leyo": "lectura Tavily"
+  },
+  {
+   "razon_social": "Bio-Optic S.R.L.",
+   "web": "https://www.bio-optic.com/",
+   "confianza_web": "alta",
+   "email": "info@bio-optic.com",
+   "telefono": "+541154350175",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "Tomas Eduardo Gargano",
+   "web": "https://transportesgargano.com/",
+   "confianza_web": "alta",
+   "email": "info@tgargano.com.ar",
+   "telefono": "+54 11 5368 3000",
+   "como_se_leyo": "lectura Tavily"
+  },
+  {
+   "razon_social": "VIVERO CUCULO S.R.L.",
+   "web": "http://cuculo.com.ar/",
+   "confianza_web": "alta",
+   "email": "comercial@cuculo.com.ar",
+   "telefono": "(11) 6557-9084",
+   "como_se_leyo": "web directa + lectura Tavily"
+  },
+  {
+   "razon_social": "UNIVERSIDAD NACIONAL DE TRES DE FEBRERO",
+   "web": "https://www.redage.org/",
+   "confianza_web": "baja",
+   "email": "",
+   "telefono": "178536259960",
+   "como_se_leyo": "web directa + lectura Tavily"
+  },
+  {
+   "razon_social": "RH+ S.A",
+   "web": "https://rhpositivo.ar/",
+   "confianza_web": "baja",
+   "email": "contacto@rhpositivo.ar",
+   "telefono": "2604481577",
+   "como_se_leyo": "lectura Tavily"
+  },
+  {
+   "razon_social": "LABORATORIOS IGALTEX SRL",
+   "web": "https://parquesindustriales.com.ar/",
+   "confianza_web": "baja",
+   "email": "info@ggtargentina.com",
+   "telefono": "11 5463-0574",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "FELSAN SRL",
+   "web": "https://www.felsan.com.ar/",
+   "confianza_web": "alta",
+   "email": "ventas@felsan.com.ar",
+   "telefono": "54-11-21506550",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "Laboratorios Britania SA",
+   "web": "https://www.britanialab.com/",
+   "confianza_web": "alta",
+   "email": "",
+   "telefono": "+541143060041",
+   "como_se_leyo": "web directa + lectura Tavily"
+  },
+  {
+   "razon_social": "ECOSAN S.A.",
+   "web": "https://www.ecosan.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@ecosan.com.ar",
+   "telefono": "+541127505050",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "BIOSYSTEMS S.A.",
+   "web": "https://www.biosystems.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@biosystems.com.ar",
+   "telefono": "+54 11 4854-7775",
+   "como_se_leyo": "lectura Tavily"
+  },
+  {
+   "razon_social": "TRECC SOCIEDAD ANONIMA",
+   "web": "https://www.trecc.com.ar/",
+   "confianza_web": "alta",
+   "email": "trecc@trecc.com.ar",
+   "telefono": "+541130109466",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "FLOSAN S.R.L.",
+   "web": "https://www.flosan.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@flosan.com.ar",
+   "telefono": "11-4684-0215",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "ALFREDO ALBERTO GUTIERREZ",
+   "web": "https://alfredogutierrez.com.ar/",
+   "confianza_web": "alta",
+   "email": "",
+   "telefono": "0714285714286",
+   "como_se_leyo": "web directa + lectura Tavily"
+  },
+  {
+   "razon_social": "CEOS MEDICA S.A.",
+   "web": "https://www.ceosalud.com.ar/",
+   "confianza_web": "alta",
+   "email": "info@ceosalud.com.ar",
+   "telefono": "08108883500",
+   "como_se_leyo": "web directa"
+  },
+  {
+   "razon_social": "NUTRICIA-BAGO S.A.",
+   "web": "https://www.nutriciaprofesional.com.ar/",
+   "confianza_web": "alta",
+   "email": "contacto@nutriciaprofesional.com.ar",
+   "telefono": "9137-0684",
+   "como_se_leyo": "web directa + lectura Tavily"
   }
  ]
 }
