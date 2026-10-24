@@ -8,7 +8,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "prospeccion/**"
+      - "prospeccion/procesar_caba.py"
       - ".github/workflows/ingesta-caba.yml"
 
 permissions:
