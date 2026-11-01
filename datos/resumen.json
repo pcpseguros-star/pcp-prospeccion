@@ -1,5 +1,5 @@
 {
- "corrida": "2026-10-24T19:34:06+00:00",
+ "corrida": "2026-11-01T16:11:20+00:00",
  "fuente": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-economia-y-finanzas/buenos-aires-compras/bac_anual.csv",
  "filas_en_archivo": 55385,
  "filas_por_etapa": {
@@ -17,7 +17,7 @@
   "plazo menor a 1 anio": 74117,
   "bienes u otra categoria": 4168
  },
- "filtro": "servicios u obras, 365 dias o mas, vigente al 2026-10-24",
+ "filtro": "servicios u obras, 365 dias o mas, vigente al 2026-11-01",
  "contratos_que_pasan_el_filtro": 4198,
  "empresas_distintas": 237,
  "empresas_con_email": 0,
