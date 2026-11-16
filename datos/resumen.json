@@ -1,5 +1,5 @@
 {
- "corrida": "2026-11-01T16:11:20+00:00",
+ "corrida": "2026-11-16T19:45:22+00:00",
  "fuente": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-economia-y-finanzas/buenos-aires-compras/bac_anual.csv",
  "filas_en_archivo": 55385,
  "filas_por_etapa": {
@@ -13,19 +13,19 @@
  "adjudicaciones_y_contratos_leidos": 91054,
  "sin_datos_de_llamado": 0,
  "descartados": {
-  "vencido o sin vencimiento": 8428,
+  "vencido o sin vencimiento": 8432,
   "plazo menor a 1 anio": 74117,
   "bienes u otra categoria": 4168
  },
- "filtro": "servicios u obras, 365 dias o mas, vigente al 2026-11-01",
- "contratos_que_pasan_el_filtro": 4198,
- "empresas_distintas": 237,
+ "filtro": "servicios u obras, 365 dias o mas, vigente al 2026-11-16",
+ "contratos_que_pasan_el_filtro": 4194,
+ "empresas_distintas": 235,
  "empresas_con_email": 0,
  "empresas_con_telefono": 0,
  "empresas_a_revisar_por_vencimiento_muy_largo": 0,
  "empresas_por_rubro": {
-  "Salud": 182,
-  "Construcción": 21,
+  "Salud": 181,
+  "Construcción": 20,
   "Servicios": 15,
   "Textil Confección y Calzado": 13,
   "Seguridad": 12,
