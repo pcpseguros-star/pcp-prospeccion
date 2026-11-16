@@ -1,20 +1,11 @@
 {
- "fecha": "2026-11-01",
- "buscadas_en_esta_corrida": 1,
- "con_web": 1,
+ "fecha": "2026-11-16",
+ "buscadas_en_esta_corrida": 0,
+ "con_web": 0,
  "web_confianza_alta": 0,
  "con_email": 0,
- "con_telefono": 1,
- "creditos_tavily_usados": 2,
+ "con_telefono": 0,
+ "creditos_tavily_usados": 0,
  "total_en_base": 237,
- "detalle": [
-  {
-   "razon_social": "RAUL JORGE LEON POGGI",
-   "web": "https://www.arempresas.com/",
-   "confianza_web": "baja",
-   "email": "",
-   "telefono": "920 806 2688",
-   "como_se_leyo": "web directa + lectura Tavily"
-  }
- ]
+ "detalle": []
 }
